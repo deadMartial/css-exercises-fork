@@ -1,0 +1,13 @@
+.same, .diff{
+    font-size:28px;
+    font-family:Helvetica, "Times New Roman", sans-serif;
+}
+
+.same{
+    background-color:#000000;
+    color:#ffffff;
+}
+.diff{
+    background-color:yellow;
+    color:#000000;
+}
